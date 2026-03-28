@@ -12,7 +12,6 @@ This repo documents my understanding of how autograd engines work by implementin
 - How a Value object tracks its own gradient and children
 - Why backpropagation is just the chain rule applied recursively on a DAG
 - How .backward() knows which order to visit nodes (topological sort)
-- Why relu's gradient is just 0 or 1 and why that matters for  dead neurons
 - How a neural net is just a composition of these tiny operations
 
 ## Files
