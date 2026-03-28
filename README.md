@@ -16,7 +16,7 @@ This repo documents my understanding of how autograd engines work by implementin
 - How a neural net is just a composition of these tiny operations
 
 ## Files
-- `micrograd_walkthrough.ipynb` — my annotated implementation with notes explaining each step in my own words
+- `building_autograd.ipynb` — my annotated implementation with notes explaining each step in my own words
 
 
 ## Credit
